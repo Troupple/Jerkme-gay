@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 66.89 49.31">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+      .rainbow-black {
+        fill: url(#rainbow-gradient);
+      }
+    </style>
+    <linearGradient id="rainbow-gradient" x1="0" y1="0" x2="66.89" y2="0"
+      gradientUnits="userSpaceOnUse" spreadMethod="repeat" gradientTransform="translate(0 0)">
+      <stop offset="0" stop-color="#6666ff"/>
+      <stop offset="0.25" stop-color="#0099ff"/>
+      <stop offset="0.5" stop-color="#00ff00"/>
+      <stop offset="0.75" stop-color="#ff3399"/>
+      <stop offset="1" stop-color="#6666ff"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <path class="cls-1" d="M0,24.66s14.97,24.66,33.45,24.66,33.45-24.66,33.45-24.66c0,0-14.97-24.66-33.45-24.66S0,24.66,0,24.66Z"/>
+    <circle class="rainbow-black" cx="33.45" cy="24.66" r="18.13"/>
+  </g>
+</svg>
